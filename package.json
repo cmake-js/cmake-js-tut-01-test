@@ -1,4 +1,7 @@
 {
   "name": "application-name",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "dependencies": {
+    "cmake-js-tut-01-module": "/home/gabor/git/cmake-js-tut-01-module/"
+  }
 }
