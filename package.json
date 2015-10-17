@@ -2,6 +2,6 @@
   "name": "application-name",
   "version": "1.0.0",
   "dependencies": {
-    "cmake-js-tut-01-module": "git+https://github.com/unbornchikken/cmake-js-tut-01-module.git"
+    "cmake-js-tut-01-module": "unbornchikken/cmake-js-tut-01-module"
   }
 }
